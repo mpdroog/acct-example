@@ -10,3 +10,9 @@ cd -
 git add .
 git commit -m "Add another year"
 ```
+
+What is the default login?
+```
+email=you@yourcompany.com
+password=minimum
+```
