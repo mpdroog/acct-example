@@ -1,0 +1,18 @@
+IV="&5477bdb55b96c9ac7d634afb84f4c68"
+Version=1
+
+[company.name]
+Name="YOUR_COMPANY"
+COC="YOUR_Chamber_Of_Commerce_Number"
+VAT="YOUR_VAT_NUMBER"
+IBAN="YOUR_IBAN_NUMBER"
+BIC="YOUR_BANK_BIC"
+Salt="f5fc716c2e71ab21e06dbf1f01c6aa7e"
+
+[[user]]
+Email="you@yourcompany.com"
+Hash="a409f9a6b0ef021cf1ee2f5f265ec5fe4222ccbf320f4c45143ffb13cbdbb5e9"
+Company=["name"]
+Name="YourName"
+Address1="Street houseno"
+Address2="Postal City"

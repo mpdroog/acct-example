@@ -1,0 +1,8 @@
+[projectname]
+Debtor="debtorname"
+BillingEmail=["accounting@importantcustomer.de"]
+NoteAdd="Comment on invoice"
+HourRate=20.00
+DueDays=14
+PO=""
+Street1="AdditionalText"
